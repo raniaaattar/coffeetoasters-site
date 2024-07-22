@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Fraunces variant0';
+    src: url('/path-to-fonts/fraunces-variant0.woff2') format('woff2'),
+         url('/path-to-fonts/fraunces-variant0.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+ 
+  
